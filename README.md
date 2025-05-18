@@ -16,7 +16,8 @@ This project is a web-based To-Do List application that allows users to create, 
   - MySQL (for storing to-do items)
   - CORS and JSON middleware support 
 
-![Screenshot (149)](https://github.com/user-attachments/assets/3d2d88bd-710a-41bf-8424-d8ed4dcad074)
+![Screenshot (149)](https://github.com/user-attachments/assets/5d053c3b-8c1c-41b0-898f-219397d26bfd)
 
-![Screenshot (150)](https://github.com/user-attachments/assets/7a250dee-c54c-4839-bf21-92b2ee543262)
+![Screenshot (150)](https://github.com/user-attachments/assets/b06b56eb-e327-4e44-9bc5-ab0c657e74ae)
+
 
